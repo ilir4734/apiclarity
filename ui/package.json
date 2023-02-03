@@ -23,7 +23,7 @@
     "react-toggle-button": "^2.2.0",
     "react-tooltip": "^4.2.21",
     "reactstrap": "^8.9.0",
-    "recharts": "^2.0.10",
+    "recharts": "^2.3.2",
     "sass": "^1.35.2",
     "spinners-react": "^1.0.4"
   },
