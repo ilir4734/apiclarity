@@ -10,5 +10,5 @@ require (
 
 require (
 	github.com/google/martian v2.1.0+incompatible // indirect
-	golang.org/x/text v0.3.7 // indirect
+	golang.org/x/text v0.3.8 // indirect
 )
